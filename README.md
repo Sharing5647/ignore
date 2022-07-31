@@ -18,6 +18,7 @@
 
 ## Here is the link to <a target="_blank" href="https://bharath-designer.github.io/w3-schools-clone/">Live Preview</a>
 
+<br>
 
 <h3 align="center">I'am a passionate Web developer from India</h3>
 
