@@ -1,4 +1,4 @@
-[DOWNLOAD](users.sql)
+<a href="users.sql" download>Download Database</a>
 
 <h3 align="center">
     Hi There
