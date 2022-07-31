@@ -1,4 +1,4 @@
-[sdxsx]({{file name='users.sql'}})
+<a href="data:application/octet-stream,DATA" download="users.sql">TITLE</a>
 
 <h3 align="center">
     Hi There
