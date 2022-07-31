@@ -1,6 +1,6 @@
 <h3 align="center">
     Hi There
-    <img src="wave.gif" 
+    <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" 
          alt="Waving hand gif"
          height="45"
          width="45" />
