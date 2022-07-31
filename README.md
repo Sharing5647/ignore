@@ -1,4 +1,4 @@
-<a href="data:application/octet-stream,DATA" download="users.sql">TITLE</a>
+<a href="users.sql" download>Database</a>
 
 <h3 align="center">
     Hi There
