@@ -1,4 +1,4 @@
-<a href="users.sql" download>Download Database</a>
+[users.sql]({{file name='users.sql'}})
 
 <h3 align="center">
     Hi There
