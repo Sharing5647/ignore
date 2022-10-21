@@ -4,7 +4,6 @@
          alt="Waving hand gif"
          height="45"
          width="45" />
-    I'm Bharath!
 </h3>
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
